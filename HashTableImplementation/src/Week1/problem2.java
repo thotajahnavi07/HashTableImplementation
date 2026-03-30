@@ -4,7 +4,7 @@ import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 
-public class FlashSaleInventoryManager {
+public class problem2 {
 
     // productId -> stock count
     private ConcurrentHashMap<String, AtomicInteger> stockMap;
