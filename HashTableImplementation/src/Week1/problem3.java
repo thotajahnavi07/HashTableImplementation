@@ -1,3 +1,5 @@
+package src.Week1;
+
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
@@ -76,7 +78,7 @@ public class FlashSaleInventoryManager {
     // Main method to simulate flash sale
     public static void main(String[] args) {
 
-        FlashSaleInventoryManager manager = new FlashSaleInventoryManager();
+        src.Week1.FlashSaleInventoryManager manager = new src.Week1.FlashSaleInventoryManager();
 
         String product = "IPHONE15_256GB";
 

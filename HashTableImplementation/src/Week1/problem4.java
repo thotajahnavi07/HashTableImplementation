@@ -1,3 +1,5 @@
+package src.Week1;
+
 import java.util.*;
 
 public class DNSCache {

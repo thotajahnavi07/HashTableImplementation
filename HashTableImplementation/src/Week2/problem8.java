@@ -1,3 +1,5 @@
+package src.Week2;
+
 import java.util.*;
 
 class TrieNode {
